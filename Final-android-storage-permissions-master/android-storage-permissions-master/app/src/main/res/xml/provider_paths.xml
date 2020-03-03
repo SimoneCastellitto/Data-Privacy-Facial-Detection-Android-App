@@ -1,0 +1,5 @@
+<paths>
+    <!-- Share the "secureimages/" directory from internal files storage
+         as the name "data" -->
+    <files-path name="data" path="secureimages/"/>
+</paths>
